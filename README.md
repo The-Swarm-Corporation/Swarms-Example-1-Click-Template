@@ -41,6 +41,12 @@ Questions? Reach out:
 
 ---
 
+## Want Real-Time Assistance?
+
+[Book a call with here for real-time assistance:](https://cal.com/swarms/swarms-onboarding-session)
+
+---
+
 ⭐ Star us on GitHub if this project helped you!
 
 Built with ♥ using [Swarms Framework](https://github.com/kyegomez/swarms)
